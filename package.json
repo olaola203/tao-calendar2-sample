@@ -1,0 +1,23 @@
+{
+  "name": "toast-ui-calendar-for-vanillajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "chance": "1.1.4",
+    "moment": "2.24.0",
+    "tao-calendar2": "^1.2.2",
+    "tui-code-snippet": "1.5.2",
+    "tui-date-picker": "4.0.3",
+    "tui-time-picker": "2.0.3"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
